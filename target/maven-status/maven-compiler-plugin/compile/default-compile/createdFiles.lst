@@ -1,0 +1,13 @@
+co\unicauca\ProyectFachada\services\ProxyClient.class
+co\unicauca\ProyectFachada\domain\Customer.class
+co\unicauca\ProyectFachada\services\OrderServiceLogger.class
+co\unicauca\ProyectFachada\domain\Item.class
+co\unicauca\ProyectFachada\services\OrderRepository.class
+co\unicauca\ProyectFachada\domain\Order.class
+co\unicauca\ProyectFachada\services\IOrderRepository.class
+co\unicauca\ProyectFachada\domain\EnumState.class
+co\unicauca\ProyectFachada\services\IOrderService.class
+co\unicauca\ProyectFachada\domain\Dish.class
+co\unicauca\ProyectFachada\services\Factory.class
+co\unicauca\ProyectFachada\services\presentation\Main.class
+co\unicauca\ProyectFachada\domain\OrderFacade.class
